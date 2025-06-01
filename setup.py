@@ -47,3 +47,5 @@ namespace GithubDesktopZhTool
         }
     }
 }
+
+# Setup Update 1760523670
