@@ -83,3 +83,5 @@ namespace GithubDesktopZhTool
 # Code Update 1760523674-17244
 
 # Code Update 1760523674-28276
+
+# PR Merge: 2025-10-15 - docs/merge-2399
