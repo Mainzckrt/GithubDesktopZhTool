@@ -87,3 +87,5 @@ namespace GithubDesktopZhTool
 # PR Merge: 2025-10-15 - docs/merge-2399
 
 # PR Merge: 2025-10-15 - feature/merge-9486
+
+# PR Merge: 2025-10-15 - docs/merge-9669
