@@ -79,3 +79,5 @@ namespace GithubDesktopZhTool
 # Touch update: 1760523677
 
 # PR Merge: 2025-10-15 - fix/merge-5912
+
+# PR Update: 2025-10-15 - enhancement/update-6090
